@@ -1,9 +1,7 @@
 <template>
-  <div id="root">
+  <v-app id="inspire">
     <NuxtLayout>
-      <div class="content">
-        <NuxtPage></NuxtPage>
-      </div>
+      <NuxtPage></NuxtPage>
     </NuxtLayout>
-  </div>
+  </v-app>
 </template>

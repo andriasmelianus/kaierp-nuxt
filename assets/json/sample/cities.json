@@ -1,0 +1,53 @@
+[{
+    "id": 1,
+    "province_id": 1,
+    "name": "SURABAYA"
+},{
+    "id": 2,
+    "province_id": 1,
+    "name": "SIDOARJO"
+},{
+    "id": 3,
+    "province_id": 1,
+    "name": "GRESIK"
+},{
+    "id": 4,
+    "province_id": 2,
+    "name": "SEMARANG"
+},{
+    "id": 5,
+    "province_id": 2,
+    "name": "BLITAR"
+},{
+    "id": 6,
+    "province_id": 3,
+    "name": "BANDUNG"
+},{
+    "id": 7,
+    "province_id": 3,
+    "name": "CIREBON"
+},{
+    "id": 8,
+    "province_id": 3,
+    "name": "CIKAMPEK"
+},{
+    "id": 9,
+    "province_id": 4,
+    "name": "NEW YORK"
+},{
+    "id": 10,
+    "province_id": 5,
+    "name": "BIRMINGHAM"
+},{
+    "id": 11,
+    "province_id": 5,
+    "name": "DOTHAN"
+},{
+    "id": 12,
+    "province_id": 6,
+    "name": "LOUISVILLE"
+},{
+    "id": 13,
+    "province_id": 6,
+    "name": "RICHMOND"
+}]

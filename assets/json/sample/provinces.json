@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "country_id": 1,
+    "name":"JAWA TIMUR"
+},{
+    "id": 2,
+    "country_id": 1,
+    "name":"JAWA TENGAH"
+},{
+    "id": 3,
+    "country_id": 1,
+    "name":"JAWA BARAT"
+},{
+    "id": 4,
+    "country_id": 2,
+    "name":"TEXAS"
+},{
+    "id": 5,
+    "country_id": 2,
+    "name":"ALABAMA"
+},{
+    "id": 6,
+    "country_id": 2,
+    "name":"KENTUCKY"
+}]

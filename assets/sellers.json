@@ -1,0 +1,8 @@
+[
+    {"id": "1","code": "SLR01", "name": "PT TERANG BULAN", "address": "JLN. KETABANG KALI 12/22", "phone":"031-58767865"},
+    {"id": "2","code": "SLR02", "name": "PT MARTABAK TELOR", "address": "JLN. KENJERAN 22", "phone":"031-5876721"},
+    {"id": "3","code": "SLR03", "name": "PT MARTABAK MANIS", "address": "JLN. KEMBANG JEPUN 213", "phone":"031-9724745"},
+    {"id": "4","code": "SLR04", "name": "PT TERANG BINTANG", "address": "JLN. RAYA MULYOSARI 42B", "phone":"031-7893237"},
+    {"id": "5","code": "SLR05", "name": "PT LUMPIA BASAH", "address": "JLN. URIP SUMOHARJO 225", "phone":"031-66774315"},
+    {"id": "5","code": "SLR06", "name": "PT LUMPIA SEMARANG", "address": "JLN. PERAK BARAT 2/298D", "phone":"031-6875776"}
+]

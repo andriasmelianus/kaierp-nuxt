@@ -2,9 +2,11 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
+  modules: ["vuetify-nuxt-module"],
+
   // DevExtreme requirements.
   ssr: false,
-  css: ["devextreme/dist/css/dx.light.css"],
+  css: ["~/assets/devextreme/dx.material.css"],
   app: {
     head: {
       bodyAttrs: {

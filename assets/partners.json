@@ -1,0 +1,8 @@
+[
+    {"id": "1","code": "PRT01", "name": "PT SELALU BAHAGIA", "address": "JLN. KETABANG KALI 12/22", "phone":"031-58767865"},
+    {"id": "2","code": "PRT02", "name": "PT TERUS MAJU", "address": "JLN. KENJERAN 22", "phone":"031-5876721"},
+    {"id": "3","code": "PRT03", "name": "PT SUMBER MAS", "address": "JLN. KEMBANG JEPUN 213", "phone":"031-9724745"},
+    {"id": "4","code": "PRT04", "name": "PT SUMBER URIP", "address": "JLN. RAYA MULYOSARI 42B", "phone":"031-7893237"},
+    {"id": "5","code": "PRT05", "name": "PT ALAM SUTERA", "address": "JLN. URIP SUMOHARJO 225", "phone":"031-66774315"},
+    {"id": "5","code": "PRT06", "name": "PT JIWASRAYA", "address": "JLN. PERAK BARAT 2/298D", "phone":"031-6875776"}
+]
